@@ -13,6 +13,10 @@ Appropriately label the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set (tidy_data.txt)
 with the average of each variable for each activity and each subject.
 
+To run, make certain you place the data set inthe working directory.
+My dataset was in a folder titled "UCI HAR Dataset" and had the existing folder structures
+under that.
+
  The data linked to from the course website represent data collected from the 
  accelerometers from the Samsung Galaxy S smartphone. A full description is available at 
  the site where the data was obtained:

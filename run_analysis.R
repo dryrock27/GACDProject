@@ -85,4 +85,4 @@
         ##  Step 5 - Create second, independent tidy data set for each activity 
         ##  and each subject
         
-        write.table(tidy_data,"./tidy_data.txt")
+        write.table(tidy_data,"./tidy_data.txt", row.name = FALSE)
